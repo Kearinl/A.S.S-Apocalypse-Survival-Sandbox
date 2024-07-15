@@ -92,8 +92,8 @@ This project is proprietary and is not available for public modification or dist
 
 For any inquiries or support, please contact [support@happydayzgames.com](mailto:support@happydayzgames.com).
 
-## About HappyDayzGames
+## About Happy Dayz Games
 
-HappyDayzGames is dedicated to creating immersive and engaging gaming experiences. Visit our [website](http://www.happydayzgames.com) to learn more about our projects and company.
+Happy Dayz Games is dedicated to creating immersive and engaging gaming experiences. Visit our [website](http://www.happydayzgames.com) to learn more about our projects and company.
 
 **Copyright © 2023-2024 [Happy Dayz Games](https://happydayzgames.com/). All rights reserved.**
