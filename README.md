@@ -95,3 +95,5 @@ For any inquiries or support, please contact [support@happydayzgames.com](mailto
 ## About HappyDayzGames
 
 HappyDayzGames is dedicated to creating immersive and engaging gaming experiences. Visit our [website](http://www.happydayzgames.com) to learn more about our projects and company.
+
+**Copyright © 2023-2024 [Happy Dayz Games](https://happydayzgames.com/). All rights reserved.**
