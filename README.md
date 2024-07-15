@@ -62,11 +62,23 @@ Although the project is not open-source, we value community feedback and suggest
 
 ## Roadmap
 
-- [ ] Implement alien invasion events
-- [ ] Add more diverse zombie types
-- [ ] Enhance crafting system
-- [ ] Introduce new weather effects
-- [ ] Expand map with new regions
+### Next Steps
+
+- **Implement alien invasion events**
+- **Add more diverse zombie types**
+- **Enhance crafting system**
+- **Introduce new weather effects**
+- **Expand map by adding new regions within the map, enhancing building and exploration**
+- **Improve AI for enemies**
+- **Implement leveling system**
+- **Implement chat system**
+- **Add more weapons/tools**
+- **Set up comprehensive wiki page**
+- **Expand craftables**
+- **Expand buildable parts**
+- **Add more items, food, and resources**
+
+We're committed to continuous improvement and your feedback is crucial in shaping the future of **Apocalypse Survival Sandbox**.
 
 ## License
 
