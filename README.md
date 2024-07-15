@@ -62,7 +62,7 @@
 Although the project is not open-source, we value community feedback and suggestions. To contribute:
 
 1. Report bugs or request features through the [Issues](https://github.com/Kearinl/-A.S.S-Apocalypse-Survival-Sandbox/issues) tab.
-2. Participate in discussions on our [Wiki](https://github.com/Kearinl/-A.S.S-Apocalypse-Survival-Sandbox/wiki).
+2. Participate in discussions on our [[Wiki]](https://github.com/Kearinl/A.S.S-Apocalypse-Survival-Sandbox/wiki/Apocalypse-Survival-Sandbox-Wiki).
 
 ## Roadmap
 
